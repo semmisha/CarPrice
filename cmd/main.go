@@ -10,7 +10,7 @@ import (
 
 const (
 	RUB                       = 73
-	EngineVolumeTax           = 3.1
+	EngineVolumeTax           = 3.6
 	TransportTax              = 13
 	EuVat                     = 19
 	GermanBuyerRevenuePercent = 8
